@@ -1,0 +1,21 @@
+id;movie_title;movie_code;file_name;reviews_link;genre
+1;The Shawshank Redemption;tt0111161;the_shawshank_redemption;https://www.imdb.com/title/tt0111161/reviews?ref_=tt_urv;Drama
+2;The Godfather;tt0068646;the_godfather;https://www.imdb.com/title/tt0068646/reviews?ref_=tt_urv;Crime, Drama
+3;The Dark Knight;tt0468569;the_dark_knight;https://www.imdb.com/title/tt0468569/reviews?ref_=tt_urv;Action, Crime, Drama
+4;The Godfather: Part II;tt0071562;the_godfather_part_ii;https://www.imdb.com/title/tt0071562/reviews?ref_=tt_urv;Crime, Drama
+5;12 Angry Men;tt0050083;12_angry_men;https://www.imdb.com/title/tt0050083/reviews?ref_=tt_urv;Crime, Drama
+6;Schindler's List;tt0108052;schindler_s_list;https://www.imdb.com/title/tt0108052/reviews?ref_=tt_urv;Biography, Drama, History
+7;The Lord of the Rings: The Return of the King;tt0167260;the_lord_of_the_rings_the_return_of_the_king;https://www.imdb.com/title/tt0167260/reviews?ref_=tt_urv;Action, Adventure, Drama
+8;Pulp Fiction;tt0110912;pulp_fiction;https://www.imdb.com/title/tt0110912/reviews?ref_=tt_urv;Crime, Drama
+9;The Lord of the Rings: The Fellowship of the Ring;tt0120737;the_lord_of_the_rings_the_fellowship_of_the_ring;https://www.imdb.com/title/tt0120737/reviews?ref_=tt_urv;Action, Adventure, Drama
+10;The Good, the Bad and the Ugly;tt0060196;the_good_the_bad_and_the_ugly;https://www.imdb.com/title/tt0060196/reviews?ref_=tt_urv;Adventure, Western
+11;Forrest Gump;tt0109830;forrest_gump;https://www.imdb.com/title/tt0109830/reviews?ref_=tt_urv;Drama, Romance
+12;Fight Club;tt0137523;fight_club;https://www.imdb.com/title/tt0137523/reviews?ref_=tt_urv;Drama
+13;Inception;tt1375666;inception;https://www.imdb.com/title/tt1375666/reviews?ref_=tt_urv;Action, Adventure, Sci-Fi
+14;The Lord of the Rings: The Two Towers;tt0167261;the_lord_of_the_rings_the_two_towers;https://www.imdb.com/title/tt0167261/reviews?ref_=tt_urv;Action, Adventure, Drama
+15;Star Wars: Episode V - The Empire Strikes Back;tt0080684;star_wars_episode_v_the_empire_strikes_back;https://www.imdb.com/title/tt0080684/reviews?ref_=tt_urv;Action, Adventure, Fantasy
+16;The Matrix;tt0133093;the_matrix;https://www.imdb.com/title/tt0133093/reviews?ref_=tt_urv;Action, Sci-Fi
+17;Goodfellas;tt0099685;goodfellas;https://www.imdb.com/title/tt0099685/reviews?ref_=tt_urv;Biography, Crime, Drama
+18;One Flew Over the Cuckoo's Nest;tt0073486;one_flew_over_the_cuckoo_s_nest;https://www.imdb.com/title/tt0073486/reviews?ref_=tt_urv;Drama
+19;Se7en;tt0114369;se7en;https://www.imdb.com/title/tt0114369/reviews?ref_=tt_urv;Crime, Drama, Mystery
+20;Seven Samurai;tt0047478;seven_samurai;https://www.imdb.com/title/tt0047478/reviews?ref_=tt_urv;Action, Drama
